@@ -12,3 +12,5 @@ To get your 23andMe data, log in and go to Tools -> Browse Raw Data -> Download
 Script requires csv and pandas libraries. Due to size of the 23andMe file, the script can take a few moments to execute. Please be patient.
 
 Note on genetic interpretations: not all SNPs are weighted equally, not all SNPs in the paper are represented due to lack of full coverage by 23andMe, it does not account for heterozygous properties, and it’s still only GWAS correlations that aren’t necessarily causation.
+
+Sample data output: http://longevi.me/post/166631383319/intelligence-genes
